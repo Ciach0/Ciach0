@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 # Witaj!
 <p>Jestem MinecraftCiach, jestem deweloperem takich projektów, jak:</p>
 <a href="https://ampersandbot.pl">
-  <img alt="AmpersandBot Logo" src="https://cdn.discordapp.com/icons/622711270935887933/951dcad8949825c3f30ea242f29b706e.webp?size=512" width="50" height="50" style="float: left;" />
-  <p style="float: left;">AmpersandBot</p>
+  <img align="right" alt="AmpersandBot Logo" src="https://cdn.discordapp.com/icons/622711270935887933/951dcad8949825c3f30ea242f29b706e.webp?size=512" width="50" height="50"/>
+  <p align="left">AmpersandBot</p>
 </a>
