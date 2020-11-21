@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Witaj!
+### Jestem MinecraftCiach, jestem deweloperem takich projektów, jak:
+![AmpersandBot Logo](https://cdn.discordapp.com/icons/622711270935887933/951dcad8949825c3f30ea242f29b706e.webp?size=512) [AmpersandBot](https://ampersandbot.pl)
