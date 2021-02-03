@@ -15,7 +15,7 @@
 
 - 👨‍💻 Moje projekty są dostępne na [https://ciach795.com/portfolio](https://ciach795.com/portfolio)
 
-- 🔥 Fun fact [Zacząłem programować w 2018 roku.](Zacząłem programować w 2018 roku.)
+- 🔥 Fun fact: **Zacząłem programować w 2018 roku.**
 
 - 📫 Kontakt: **Email: kontakt@ciach795.com | Discord: __M1N3CR4F7C14CH#3536**
 
