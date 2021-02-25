@@ -17,7 +17,7 @@
 
 - 🔥 Fun fact: **Zacząłem programować w 2018 roku.**
 
-- 📫 Kontakt: **Email: kontakt@ciach795.com | Discord: __M1N3CR4F7C14CH#3536**
+- 📫 Kontakt: **Email: kontakt@ciach795.com | Discord: __ZajebiśCiach#3536**
 
 <h3 align="left">Kontakt:</h3>
 <p align="left">
