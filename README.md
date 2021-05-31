@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minecraftciach" alt="minecraftciach" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/minecraftciach0" target="blank"><img src="https://img.shields.io/twitter/follow/minecraftciach0?logo=twitter&style=for-the-badge" alt="minecraftciach0" /></a> </p>
+<p align="left"> <a href="https://twitter.com/__Ciach0" target="blank"><img src="https://img.shields.io/twitter/follow/__Ciach0?logo=twitter&style=for-the-badge" alt="__Ciach0" /></a> </p>
 
 - 🔭 Obecnie praduję nad [AmpersandBotem](https://ampersandbot.pl)
 
