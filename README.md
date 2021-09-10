@@ -13,7 +13,7 @@
 
 - 👯 Tłumaczę stronę [DList.top](https://dlist.top)
 
-- 👨‍💻 Moje projekty są dostępne na [https://ciach795.com/portfolio](https://ciach795.com/portfolio)
+- 👨‍💻 Moje projekty są dostępne na [https://ciach795.com/about](https://ciach795.com/about)
 
 - 🔥 Fun fact: **Zacząłem programować w 2016 roku.**
 
