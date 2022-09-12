@@ -11,7 +11,7 @@
 
 - 🌱 Currently learning **[React](https://reactjs.org) and [Nest.js](https://nestjs.com)**
 
-- 👨‍💻 My projects are accessible at [https://ciach795.com/portfolio](https://ciach795.com/portfolio)
+- 👨‍💻 My projects are accessible at [https://ciach795.com/about](https://ciach795.com/about)
 
 - 📫 Contact: **Email: ciach795@gmail.com | Discord: ciach0_#3536, [Server](https://discord.gg/ggvm5GKbev) | Telegram: [Link](https://t.me/@ciach795)**
 
