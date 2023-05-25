@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ciach0_" target="blank"><img src="https://img.shields.io/twitter/follow/ciach0_?logo=twitter&style=for-the-badge" alt="ciach0_" /></a> </p>
 
-- 🔭 Currently working on [Vanilla.ovh](https://github.com/vanillachat)
+- 🔭 Currently working on [AmpersandBot](https://ampersandbot.xyz)
 
-- 🌱 Currently learning **[React](https://reactjs.org) and [Nest.js](https://nestjs.com)**
-
-- 👨‍💻 My projects are accessible at [https://ciach795.com/about](https://ciach795.com/about)
+- 🌱 Currently learning **[Next.js](https://nextjs.org)**
 
 - 📫 Contact: **Email: ciach795@gmail.com | Discord: ciach0_#3536, [Server](https://discord.gg/ggvm5GKbev) | Telegram: [Link](https://t.me/@ciach795)**
 
