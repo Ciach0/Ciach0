@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/ciach0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ciach0_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucanx6gqozwhpynxh4v4zoqw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucanx6gqozwhpynxh4v4zoqw" height="30" width="40" /></a>
-<a href="https://discord.gg/mzqq5zfBGfyj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mzqq5zfBGfyj" height="30" width="40" /></a>
+<a href="https://discord.gg/ggvm5GKbev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ggvm5GKbev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">I use and respect:</h3>
